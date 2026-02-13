@@ -1,0 +1,4 @@
+node_modules
+docx/cache
+.temp
+.DS_Store
