@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "PYRo",
   description: "天津大学北洋机甲战队文档站",
-  base: '/vod-x.github.io/',
+  base: '',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
